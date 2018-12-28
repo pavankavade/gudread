@@ -9,7 +9,7 @@
   "author": "Pavan",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.4",
-    "mongoose": "^4.11.12"
+    "express": "^4.16.4",
+    "mongoose": "^5.4.1"
   }
 }
