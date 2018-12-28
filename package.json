@@ -1,11 +1,15 @@
 {
   "name": "storybooks",
   "version": "1.0.0",
-  "description": "",
+  "description": "App to share public or write private stories",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Pavan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.12"
+  }
 }
