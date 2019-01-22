@@ -5,6 +5,8 @@ Made with node.js, express. authentication is done with google account and passp
 Version: 1.0.0
 Usage
 
+env variable path for cmd
+set PATH=D:\node;%PATH%
 $ npm install
 
 $ npm start
